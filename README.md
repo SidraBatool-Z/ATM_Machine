@@ -1,0 +1,1 @@
+A console-based ATM machine simulation built with TypeScript, using inquirer for interactive prompts and chalk for colorful output. This program allows users to perform basic ATM functions like viewing balance and withdrawing cash.
